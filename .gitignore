@@ -1,0 +1,13 @@
+01_WeatherChecker/.classpath
+01_WeatherChecker/.project
+01_WeatherChecker/target/
+01_WeatherChecker/target/*
+.DS_Store
+*/.DS_Store
+*/.project
+*/.classpath
+CommonUsage/CommonUsage/.classpath
+CommonUsage/CommonUsage/.project
+CommonUsage/CommonUsage/target/*
+Projects/angular4-login-registration-example/angular4-login-registration-service/.classpath
+Projects/angular4-login-registration-example/angular4-login-registration-service/.project
